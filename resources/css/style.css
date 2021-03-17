@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+header {
+    font-size: 50px;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+#download {
+    font-size: 16px;
+}
+
+#download a{
+    color: aquamarine;
+}
+
+.secheader {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#guide {
+    font-size: 21px;
+    color: gray;
+}
+
+#foot {
+    text-align: right;
+    color: grey;
+}
